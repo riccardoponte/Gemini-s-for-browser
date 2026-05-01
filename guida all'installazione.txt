@@ -1,0 +1,13 @@
+Per aggiungere un pannello laterale richiudibile con Gemini fai così:
+
+1) scarica la cartella .zip
+
+2) estrai la cartella .zip appena scaricata
+
+3) apri il browser che vuoi e recati nella sezione Estensioni (contrassegnata dall'icona del puzzle)
+
+4) clicca su abilita permessi di sviluppatore
+
+5) clicca su "Carica estensione non pacchettizzata" e seleziona la cartella estratta
+
+6) sei pronto a usare l'estensione! seleziona qualsiasi testo in una pagina web e clicca su "Chiedi a Gippi" per dialogare con Gemini 
